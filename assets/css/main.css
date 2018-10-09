@@ -3615,7 +3615,11 @@ input, select, textarea {
 			#banner p a {
 				color: inherit;
 			}
+		#banner p2 {
+			letter-spacing: 0.2em;
+			text-transform:lowercase;
 
+		}
 		#banner .more {
 			-moz-transition: -moz-transform 0.75s ease, opacity 0.75s ease;
 			-webkit-transition: -webkit-transform 0.75s ease, opacity 0.75s ease;
