@@ -297,6 +297,17 @@ input, select, textarea {
 	clear: both;
 	display: table;
 }
+
+.custom2{
+	margin: auto;
+	text-align: center;
+}
+.custom3{
+	margin: auto;
+	padding-top: 10px;
+	text-align: center;
+}
+
 /* Housekeeping CSS */
 body {
 	background: #272822 !important;
